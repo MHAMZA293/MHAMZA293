@@ -88,19 +88,28 @@ Additional academic and personal projects, write-ups, and experiments live on my
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Trophies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhamza293&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza293&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhamza293&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamza293&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+### 📈 Live Metrics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamza293&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/mhamza293/mhamza293/main/github-metrics.svg" alt="metrics dashboard" />
+</p>
+
+<sub>⬆ Auto-generated every 24h via GitHub Actions — includes stats, languages, activity, and achievements in one render.</sub>
+
+---
+
+### 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhamza293/mhamza293/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ---
