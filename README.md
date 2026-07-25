@@ -58,32 +58,33 @@ fun_fact:   I like turning half-finished ideas into fully working apps
 <tr>
 <td width="50%">
 
-**🎓 EduTrack**
-Full-stack student management system — admin login, student CRUD, search, file upload, analytics dashboard, and activity logging, built with a dark "Refined Industrial" UI (slate + electric teal).
-`HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
+**📰 Fake News Identifier**
+Machine learning application that detects whether news articles are real or fake using natural language processing and text classification. Includes data preprocessing, feature extraction with TF-IDF, model training, evaluation, and an interactive prediction interface.
+`Python` `scikit-learn` `Pandas` `NumPy` `NLTK`
 
 </td>
 <td width="50%">
 
-**🍔 Savor**
-Multi-screen Flutter food delivery app with clean UI, responsive layouts, and Provider-based state management across screens.
-`Flutter` `Dart` `Provider`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📧 Spam Email Classifier**
-End-to-end ML project on the SMS Spam Collection dataset — Naive Bayes & Logistic Regression models served via a Flask API, consumed by a Flutter mobile frontend.
+**📧 Email Spam Classifier**
+End-to-end machine learning project that classifies emails/SMS messages as spam or legitimate. Built using NLP techniques, TF-IDF vectorization, and supervised learning models, with a Flask REST API and Flutter mobile frontend for real-time predictions.
 `Python` `scikit-learn` `NLTK` `Flask` `Flutter`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-**🔗 More on my Portfolio**
-Additional academic and personal projects, write-ups, and experiments live on my portfolio site — check it out for the full picture.
-[`mhamza293.github.io/portfolio`](https://mhamza293.github.io/portfolio)
+**🏠 House Price Prediction**
+Regression-based machine learning project that predicts house prices from property features such as location, area, bedrooms, and amenities. Includes data cleaning, feature engineering, model comparison, evaluation metrics, and visualization of prediction results.
+`Python` `scikit-learn` `Pandas` `Matplotlib` `NumPy`
+
+</td>
+<td width="50%">
+
+**🧾 Shop Ledger Management System**
+Desktop-based shop management application for tracking customer accounts, sales, purchases, payments, and outstanding balances. Features secure record management, transaction history, search functionality, and automated balance calculations.
+`Java` `Java Swing` `MySQL` `JDBC`
 
 </td>
 </tr>
