@@ -32,7 +32,7 @@ fun_fact:   I like turning half-finished ideas into fully working apps
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,php,js,html,css,flutter,firebase,mysql,git,github,vscode,tensorflow,sklearn,latex" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,php,js,html,css,flutter,firebase,mysql,git,github,vscode,tensorflow,flask,docker,linux,postman" />
 </p>
 
 <details>
