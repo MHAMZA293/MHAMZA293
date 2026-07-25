@@ -92,12 +92,12 @@ Desktop-based shop management application for tracking customer accounts, sales,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhamza293&theme=flat&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
-</p>
----
+  <img src="https://github-readme-stats.vercel.app/api?username=mhamza293&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=mhamza293&theme=tokyonight&hide_border=true" height="180"/>
+</p>---
 
 ### 📈 Live Metrics Dashboard
 
